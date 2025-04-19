@@ -1,0 +1,125 @@
+@media (max-width: 1769px) {
+    .container {
+        max-width: 1360px;
+    }
+
+    /* Header */
+
+    .header {
+        padding-top: 29px;
+    }
+
+    .logo {
+        height: 25px;
+        width: 155px;
+        margin-right: 55px;
+    }
+
+    .burger {
+        gap: 12px;
+        margin-right: 34px;
+    }
+
+    .burger__btn {
+        font-size: 13px;
+    }
+
+
+    .header__btn--choice {
+        padding: 16px 50px 14px 19px;
+        font-size: 13px;
+    }
+
+    .phone {
+        font-size: 14px;
+    }
+
+    .header__btn--call {
+        font-size: 13px;
+    }
+
+
+    /* HERO */
+
+
+    .hero {
+        padding-top: 8px;
+        padding-bottom: 55px;
+    }
+
+    .hero--img {
+        background-image: url('../img/hero-1769.jpg');
+        max-width: 1360px;
+        height: 506px;
+        margin-bottom: 40px;
+    }
+
+    .hero__bottom--descr {
+        font-size: 26px;
+    }
+
+    .hero__bottom--title {
+        font-size: 161px;
+    }
+
+
+    /* PROJECT */
+
+
+    .project {
+        padding-top: 45px;
+    }
+
+
+    .project__left {
+        margin-right: 222px;
+    }
+
+    .project__title--left {
+        margin-bottom: 33px;
+        font-size: 11px;
+    }
+
+    .project__left--house {
+        min-width: 567px;
+        height: 720px;
+    }
+
+    .project__left--arrow {
+        max-width: 200px;
+        transform: translate(-50%, -54%);
+    }
+
+
+    .project__right--title {
+        font-size: 26px;
+        margin-bottom: 96px;
+    }
+
+    .project__right--descr {
+        font-size: 16px;
+    }
+
+    .info-video__descr {
+        font-size: 14px;
+    }
+
+
+    .info-video__time {
+        font-size: 14px;
+    }
+
+    .video {
+        width: 186px;
+    }
+
+    .video--player {
+        width: 110px;
+    }
+
+    .project__right--element {
+        max-width: 49px;
+        margin-bottom: 45px;
+    }
+
+}
